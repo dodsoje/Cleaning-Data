@@ -24,7 +24,7 @@ The R script called run_analysis.R does the following.
 
 •	The output will be a file called tidy_ data_ set_ with_ the_averages.txt
  
-•	To see the data in R, use data.table (“tidy_ data_ set_ with _the _averages.txt)
+•	To see the data in R, use data.table (“tidy_ data_ set_ with _averages.txt)
 
 
 
