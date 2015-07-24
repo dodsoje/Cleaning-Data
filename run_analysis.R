@@ -66,5 +66,5 @@ row = 1
      } 
  } 
 
-write.table(finalResults, "tidy_data_set_with_the_averages.txt", row.name=FALSE)
+write.table(finalResults, "tidy_data_set_with_averages.txt", row.name=FALSE)
 
